@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=VictorAndres198&style=flat-square&color=blue" alt=""/>
 
   <table border="0" width="100%">
     <tr>
@@ -27,6 +26,7 @@
       </td>
     </tr>
   </table>
+
 
 
   <br>
@@ -79,5 +79,7 @@
       </td>
     </tr>
   </table>
+  
+  <img align="left" src="https://komarev.com/ghpvc/?username=VictorAndres198&style=flat-square&color=blue" alt=""/>
 
 </div>
