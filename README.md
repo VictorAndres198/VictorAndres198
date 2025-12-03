@@ -28,12 +28,8 @@
     </tr>
   </table>
 
-  <h3>🏆 Logros en GitHub</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=VictorAndres198&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
 
-  <br><br>
+  <br>
 
   <table border="0" width="100%">
     <tr>
