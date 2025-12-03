@@ -11,7 +11,7 @@
         <h3>Ingeniero de Software (Egresado) | Décimo Superior 🏆</h3>
         <p>
           Arquitecto de Software enfocado en <b>Sistemas Distribuidos</b> y <b>Desarrollo Móvil</b>. 
-          Combino la robustez de <b>Java/Spring Boot</b> con la agilidad de <b>React Native</b>.
+          Combino la robustez de <b>Java/Spring Boot</b> con la agilidad de frameworks como <b>Angular</b> y <b>React Native</b>.
         </p>
         <p>
           🚀 <b>Actualmente:</b> Buscando Prácticas Profesionales (Disponibilidad Inmediata).<br>
