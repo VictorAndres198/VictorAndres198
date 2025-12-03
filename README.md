@@ -43,14 +43,6 @@ He diseñado y desarrollado un sistema completo de interoperabilidad de billeter
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=VictorAndres198&show_icons=true&theme=radical&hide_border=true" alt="Victor's Stats" />
-</p>
-
----
-
 ### 📫 Contacto
 
 * 💼 **LinkedIn:** [victor-rojas-dev](https://www.linkedin.com/in/victor-rojas-dev/)
