@@ -69,7 +69,7 @@
     <tr>
       <td width="50%">
         <b>📱 Cliente Móvil (React Native)</b><br>
-        Billetera digital con escáner QR y seguridad biométrica.<br>
+        Billetera digital con escáner QR.<br>
         <a href="https://github.com/VictorAndres198/Khipu">➡️ Ver Repositorio</a>
       </td>
       <td width="50%">
